@@ -1,1 +1,6 @@
 .ipynb_checkpoints/
+code/__pycache__/thinkdsp.cpython-312.pyc
+code/__pycache__/thinkplot.cpython-312.pyc
+.idea/modules.xml
+.idea/ThinkDSP.iml
+.idea/vcs.xml
